@@ -24,5 +24,6 @@ p, li{
 	letter-spacing:1px;
 }
 img{
+	display: block;
 	margin: 0 auto;
 }
